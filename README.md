@@ -1,0 +1,1 @@
+intellij idea 自动生成全部的get和set方法 generateGetSet插件
